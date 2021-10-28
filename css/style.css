@@ -6,21 +6,34 @@
 
 body {
     background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    line-height: 15px;
 }
 
 .container {
     width: 1000px;
     background-color: white;
     margin: 0 auto;
+    
 }
 
 .card {
     display: inline-block;
     width: 23%;
-    margin: 0 15px;
-    height: 300px;
+    margin: 15px 10px;
+    height: 400px;
     border: 1px white solid;
 }
 .card img {
     width: 100%;
+    display: block;
+}
+
+.prezzo {
+    color: red;
+}
+
+.marca {
+    color: rgb(85, 85, 85);
 }
