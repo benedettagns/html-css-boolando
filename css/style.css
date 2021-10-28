@@ -70,6 +70,39 @@ body {
     left: 90%;
     top: 10%;
 }
+
+.percentuale {
+    width: 35px;
+    height: 20px;
+    border: 1px red solid;
+    background-color: red;
+    position: absolute;
+    bottom: 15%;
+    color: white;
+    font-size: 13px;
+}
+.sostenibilità {
+    width: 80px;
+    height: 20px;
+    border: 1px green solid;
+    background-color: green;
+    position: absolute;
+    left: 15%;
+    bottom: 15%;
+    color: white;
+    font-size: 13px;
+}
+
+.sostenibilità2 {
+    width: 80px;
+    height: 20px;
+    border: 1px green solid;
+    background-color: green;
+    position: absolute;
+    bottom: 15%;
+    color: white;
+    font-size: 13px;
+}
 /*.sottolineato {
     font-size: 13px;
     text-decoration: overline;
