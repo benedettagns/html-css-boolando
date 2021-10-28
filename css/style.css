@@ -8,7 +8,7 @@ body {
     background-color: whitesmoke;
     font-family: 'Roboto', sans-serif;
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
-    line-height: 15px;
+    line-height: 13px;
 }
 
 .container {
@@ -60,3 +60,17 @@ body {
 .card:hover .indietro{
     display: block;
 }
+
+.cuore {
+    width: 35px;
+    height: 20px;
+    border: 1px white solid;
+    background-color: white;
+    position: absolute;
+    left: 90%;
+    top: 10%;
+}
+/*.sottolineato {
+    font-size: 13px;
+    text-decoration: overline;
+}*/
